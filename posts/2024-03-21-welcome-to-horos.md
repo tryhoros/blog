@@ -5,8 +5,8 @@ coverImage: 'https://www.yankodesign.com/images/design_news/2020/06/all-black-de
 date: '2024-03-21'
 category: 'Product'
 author:
-  name: 'Horos Team'
-  picture: 'https://api.dicebear.com/7.x/avataaars/svg?seed=horosteam'
+  name: 'Davi Cantarelli'
+  picture: 'https://media.licdn.com/dms/image/v2/D4D03AQGttTi7vl6GSQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1687982471158?e=1740614400&v=beta&t=-8Ckm2rqaejAEpDty37eSZVel1X0ICozQ0PKgJKrUUg'
 ---
 
 # Welcome to Horos
