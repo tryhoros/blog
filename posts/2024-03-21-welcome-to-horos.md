@@ -1,7 +1,7 @@
 ---
 title: 'Welcome to Horos'
 excerpt: 'Transform your social media workflow with AI-powered tools and streamlined collaboration.'
-coverImage: 'https://source.unsplash.com/1600x900/?social-media'
+coverImage: 'https://www.yankodesign.com/images/design_news/2020/06/all-black-desk-setups-that-will-inspire-you-to-adapt-this-modern-minimal-trend/01-Black-Desk-Setup_-minimal_modern_hero3.jpg'
 date: '2024-03-21'
 category: 'Product'
 author:
